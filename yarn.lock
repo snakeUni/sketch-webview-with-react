@@ -2239,6 +2239,11 @@ eslint-config-airbnb@^18.1.0:
     object.assign "^4.1.0"
     object.entries "^1.1.1"
 
+eslint-config-sketch@^0.2.4:
+  version "0.2.4"
+  resolved "https://registry.npmjs.org/eslint-config-sketch/-/eslint-config-sketch-0.2.4.tgz#8add9f0a26dac12108fc5a09ecc46ac1a7a796e0"
+  integrity sha512-NTLufdmO+uT07O7Ol6ubqktQuzWNrc4spDJseSbOZFaBsWJw+zJpsunRjVZg8r++ANH3VnW089QLTLzlismZOg==
+
 eslint-import-resolver-node@^0.3.2:
   version "0.3.3"
   resolved "https://registry.npmjs.org/eslint-import-resolver-node/-/eslint-import-resolver-node-0.3.3.tgz#dbaa52b6b2816b50bc6711af75422de808e98404"
