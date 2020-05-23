@@ -14,7 +14,7 @@
     "sketch-assets-file": "sketch-assets/icons.sketch"
   },
   "scripts": {
-    "build": "skpm-build",
+    "build": "rm -rf {{ slug }}.sketchplugin && skpm-build",
     "watch": "skpm-build --watch",
     "start": "skpm-build --watch",
     "postinstall": "npm run build && skpm-link"
